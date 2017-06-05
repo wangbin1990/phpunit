@@ -18,7 +18,7 @@ class TestCase extends \PHPUnit\Framework\TestCase
      */
     protected function createApp()
     {
-        new Application($GLOBALS['CONFIG']);
+        //new Application($GLOBALS['CONFIG']);
     }
 
     /**

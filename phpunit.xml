@@ -13,7 +13,7 @@
         </testsuite>
     </testsuites>
     <logging>
-        <log type="coverage-html" target="web/coverage/" charset="UTF-8" />
+        <log type="coverage-html" target="../web/coverage/" charset="UTF-8" />
     </logging>
     <filter>
         <whitelist processUncoveredFilesFromWhitelist="false">
