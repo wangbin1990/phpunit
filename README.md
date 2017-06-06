@@ -1,2 +1,2 @@
 # phpunit
-phpunit for yii2
+phpunit for yii2-basic
